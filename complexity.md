@@ -3,6 +3,7 @@
 ## 0/1 Knapsack brute force complexity
 
 Time complexity: O(2^n) with n the number of items
+
 Space complexity: O(n)
 
 [#complexity](complexity.md)
@@ -34,8 +35,11 @@ How much of a resource (time or memory) it takes to execute per operation on ave
 ## Array complexity: access, search, insert, delete
 
 Access: O(1)
+
 Search: O(n)
+
 Insert: O(n)
+
 Delete: O(n)
 
 [#array](array.md) [#complexity](complexity.md)
@@ -83,7 +87,9 @@ Theta(n) if both O(n) and Omega(n)
 ## Binary heap (min-heap or max-heap) complexity: insert, get min (max), delete min (max)
 
 Insert: O(log (n))
+
 Get min (max): O(1)
+
 Delete min: O(log n)
 
 [#complexity](complexity.md) [#heap](heap.md)
@@ -91,6 +97,7 @@ Delete min: O(log n)
 ## BST complexity: access, insert, delete
 
 If not balanced O(n)
+
 If balanced O(log n)
 
 [#complexity](complexity.md) [#tree](tree.md)
@@ -98,6 +105,7 @@ If balanced O(log n)
 ## Bubble sort complexity and stability
 
 Time: O(n²)
+
 Space: O(1)
 
 Stable
@@ -121,6 +129,7 @@ Time and space: O(n * l) with n the number of words and l the longest word lengt
 ## Complexity to insert a key in a trie
 
 Time: O(k) with k the size of the key
+
 Space: O(1) iterative, O(k) recursive
 
 [#complexity](complexity.md) [#tree](tree.md)
@@ -148,7 +157,9 @@ Use case: known and small range of possible integers
 ## Doubly linked list complexity: access, insert, delete
 
 Access: O(n)
+
 Insert: O(1)
+
 Delete: O(1)
 
 [#complexity](complexity.md) [#linkedlist](linkedlist.md)
@@ -162,11 +173,13 @@ All: amortized O(1), worst O(n)
 ## Heapsort complexity, stability, use case
 
 Time: Theta(n log n)
+
 Space: O(1)
 
 Unstable
 
 Use case: space constrained environment with O(n log n) time guarantee
+
 Yet, not stable and not cache friendly
 
 [#complexity](complexity.md) [#sort](sort.md)
@@ -174,6 +187,7 @@ Yet, not stable and not cache friendly
 ## Insertion sort complexity, stability, use case
 
 Time: O(n²)
+
 Space: O(1)
 
 Stable
@@ -185,7 +199,9 @@ Use case: partially sorted structure
 ## Linked list complexity: access, insert, delete
 
 Access: O(n)
+
 Insert: O(1)
+
 Delete: O(1)
 
 [#complexity](complexity.md) [#linkedlist](linkedlist.md)
@@ -193,6 +209,7 @@ Delete: O(1)
 ## Mergesort complexity, stability, use case
 
 Time: Theta(n log n)
+
 Space: O(n)
 
 Stable
@@ -204,6 +221,7 @@ Use case: good worst case time complexity and stable, good with linked list
 ## Quicksort complexity, stability, use case
 
 Time: best and average O(n log n), worst O(n²) if the array is already sorted in ascending or descending order
+
 Space: O(log n) // In-place sorting algorithm
 
 Not stable
@@ -229,6 +247,7 @@ All: O(log n)
 ## Selection sort complexity
 
 Time: Theta(n²)
+
 Space: O(1)
 
 [#complexity](complexity.md) [#sort](sort.md)

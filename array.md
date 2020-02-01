@@ -15,8 +15,11 @@ while (i < j) {
 ## Array complexity: access, search, insert, delete
 
 Access: O(1)
+
 Search: O(n)
+
 Insert: O(n)
+
 Delete: O(n)
 
 [#array](array.md) [#complexity](complexity.md)
@@ -80,8 +83,7 @@ Example: 1, 0, 2, 0, 3, 0 => 0, 0, 0, 1, 2, 3
 
 Two pointers technique: read and write starting at the end of the array
 
-If read is on a 0, decrement read
-Otherwise swap, decrement both
+If read is on a 0, decrement read. Otherwise swap, decrement both
 
 ```java
 public void move(int[] a) {
@@ -97,6 +99,7 @@ public void move(int[] a) {
 ```
 
 Time complexity: O(n)
+
 Space complexity: O(1)
 
 [#array](array.md)
@@ -110,6 +113,7 @@ Only element whose previous is bigger (also the pivot is the smallest element)
 ## How to find a pivot element in a rotated array
 
 Check first if the array is rotated
+
 Then, apply binary search (comparison with a[right] to know if we go left or right)
 
 ```java
@@ -154,8 +158,8 @@ int findPivot(int[] a) {
 When full, create a new array of twice the size, copy items (System.arraycopy is optimized for that)
 
 Shrink: 
-Not when one-half full (otherwise worst case is too expensive: double-shrink-double-shrink etc.)
-Solution: **one-quarter full**
+- Not when one-half full (otherwise worst case is too expensive: double-shrink-double-shrink etc.)
+- Solution: **one-quarter full**
 
 [#array](array.md)
 
@@ -186,6 +190,7 @@ void rotateArray(List<Integer> a, int n) {
 ```
 
 Time complexity: O(n)
+
 Memory complexity: O(1)
 
 [#array](array.md)

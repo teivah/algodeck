@@ -15,6 +15,7 @@ Based on either:
 ## Memoization vs tabulation
 
 Optimization technique to **cache** previously computed results
+
 Used by **dynamic programming** algorithms
 
 Memoization: **top-down** (start with a large, complex problem and break it down into smaller sub-problems)

@@ -11,6 +11,7 @@ AND bit by bit
 Shift on the left
 
 n * 2 <=> left shift by 1
+
 n * 4 <=> left shift by 2
 
 [#bit](bit.md)
@@ -115,16 +116,23 @@ Use the most significative bit to represent the sign. Yet, it is not enough (pro
 Two's complement technique: take the **one complement and add one**
 
 -3: 1101
+
 -2: 1110
+
 -1: 1111
+
 0:  0000
+
 1:  0001
+
 2:  0010
+
 3:  0011
 
 The **most significant** bit still represents the **sign**
 
 Max integer value: 1...1 (31 bits)
+
 -1: 1...1 (32 bits)
 
 [#bit](bit.md)
@@ -211,11 +219,15 @@ x
 ## XOR operations
 
 0 ^ 0 = 0
+
 1 ^ 0 = 1
+
 0 ^ 1 = 1
+
 1 ^ 1 = 0
 
 n XOR 0 => keep
+
 n XOR 1 => flip
 
 [#bit](bit.md)
