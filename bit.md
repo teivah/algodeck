@@ -44,7 +44,7 @@ Vector (linear sequence of numeric values stored contiguously in memory) in whic
 
 ```java
 boolean checkExactlyOneBitSet(int num) {
-	return (num & (num - 1)) == 0;
+	return num != 0 && (num & (num - 1)) == 0;
 }
 ```
 
