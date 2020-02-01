@@ -141,4 +141,6 @@ private void merge(int[] a, int[] helper, int lo, int mid, int hi) {
 }
 ```
 
+### Further Reading
+
 [Further reading](https://medium.com/omarelgabrys-blog/dynamic-connectivity-problem-9460f3dff2c6)
