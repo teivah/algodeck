@@ -149,7 +149,9 @@ Two methods:
 - union(2, 5) // connect object 2 with object 5
 - connected(1 , 6) // is object 1 connected to object 6?
 
-[Further reading](https://medium.com/omarelgabrys-blog/dynamic-connectivity-problem-9460f3dff2c6)
+### Further Reading
+
+[Dynamic Connectivity Problem](https://medium.com/omarelgabrys-blog/dynamic-connectivity-problem-9460f3dff2c6)
 
 [#graph](graph.md)
 
