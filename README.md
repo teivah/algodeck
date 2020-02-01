@@ -61,7 +61,8 @@ The **Anki version** (an Anki clone of the cards available in this repo) is avai
 * [How to test if the array is sorted in ascending or descending order](array.md#how-to-test-if-the-array-is-sorted-in-ascending-or-descending-order)
 * [Rotate an array by n elements (n can be negative)](array.md#rotate-an-array-by-n-elements-n-can-be-negative)
 
-Bit:
+### Bit
+
 * [& operator](bit.md)
 * [<< operator](bit.md)
 * [>> operator](bit.md)
@@ -91,7 +92,7 @@ Bit:
 * [| operator](bit.md)
 * [~ operator](bit.md)
 
-Complexity:
+### Complexity
 
 * [0/1 Knapsack brute force complexity](complexity.md#01-knapsack-brute-force-complexity)
 * [0/1 Knapsack memoization complexity](complexity.md#01-knapsack-memoization-complexity)
@@ -128,16 +129,19 @@ Complexity:
 * [Time complexity to build a binary heap](complexity.md#time-complexity-to-build-a-binary-heap)
 * [Topological sort complexity](complexity.md#topological-sort-complexity)
 
-Dynamic Programming:
+### Dynamic Programming
+
 * [Dynamic programming concept](dynamicprogramming.md#dynamic-programming-concept)
 * [Memoization vs tabulation](dynamicprogramming.md#memoization-vs-tabulation)
 
-Encoding:
+### Encoding
+
 * [ASCII charset](encoding.md#ascii-charset)
 * [Difference encoding/charset](encoding.md#difference-encodingcharset)
 * [Unicode charset](encoding.md#unicode-charset)
 
-General:
+### General
+
 * [Before finding a solution](general.md#before-finding-a-solution)
 * [Comparator implementation to order two integers](general.md#comparator-implementation-to-order-two-integers)
 * [Different ways for two intervals to relate to each other](general.md#different-ways-for-two-intervals-to-relate-to-each-other)
@@ -151,7 +155,7 @@ General:
 * [Stable property](general.md#stable-property)
 * [What do to after having designed a solution](general.md#what-do-to-after-having-designed-a-solution)
 
-Graph:
+### Graph
 * [A* algorithm](graph.md#a-algorithm)
 * [Backedge definition](graph.md#backedge-definition)
 * [Best-first search algorithm](graph.md#best-first-search-algorithm)
@@ -181,18 +185,21 @@ Graph:
 * [Travelling salesman problem](graph.md#travelling-salesman-problem)
 * [Two types of graphs](graph.md#two-types-of-graphs)
 
-Greedy:
+### Greedy
+
 * [Best-first search algorithm](greedy.md#best-first-search-algorithm)
 * [Greedy algorithm](greedy.md#greedy-algorithm)
 * [Greedy algorithm: structure](greedy.md#greedy-algorithm-structure)
 * [Greedy technique](greedy.md#greedy-technique)
 * [Technique - Optimization problems requiring a min or max](greedy.md#technique---optimization-problems-requiring-a-min-or-max)
 
-Hash Table:
+### Hash Table
+
 * [Hash table complexity: search, insert, delete](hashtable.md#hash-table-complexity-search-insert-delete)
 * [Hash table implementation](hashtable.md#hash-table-implementation)
 
-Heap:
+### Heap
+
 * [Binary heap (min-heap or max-heap) complexity: insert, get min (max), delete min (max)](heap.md#binary-heap-min-heap-or-max-heap-complexity-insert-get-min-max-delete-min-max)
 * [Binary heap (min-heap or max-heap) data structure used for the implementation](heap.md#binary-heap-min-heap-or-max-heap-data-structure-used-for-the-implementation)
 * [Binary heap (min-heap or max-heap) definition](heap.md#binary-heap-min-heap-or-max-heap-definition)
@@ -209,7 +216,8 @@ Heap:
 * [Two heaps technique](heap.md#two-heaps-technique)
 * [Why binary heap over BST for priority queue?](heap.md#why-binary-heap-over-bst-for-priority-queue)
 
-Linked List
+### Linked List
+
 * [Algorithm to reverse a linked list](linkedlist.md#algorithm-to-reverse-a-linked-list)
 * [Doubly linked list](linkedlist.md#doubly-linked-list)
 * [Doubly linked list complexity: access, insert, delete](linkedlist.md#doubly-linked-list-complexity-access-insert-delete)
@@ -221,7 +229,8 @@ Linked List
 * [Ring buffer (or circular buffer) structure](linkedlist.md#ring-buffer-or-circular-buffer-structure)
 * [What if we need to iterate backwards on a singly linked list in constant space without mutating the input?](linkedlist.md#what-if-we-need-to-iterate-backwards-on-a-singly-linked-list-in-constant-space-without-mutating-the-input)
 
-Math:
+### Math
+
 * [a = a property](math.md#a--a-property)
 * [If a = b and b = c then a = c property](math.md#if-a--b-and-b--c-then-a--c-property)
 * [If a = b then b = a property](math.md#if-a--b-then-b--a-property)
@@ -232,17 +241,20 @@ Math:
 * [Probability: P(a ∪ b) // union](math.md#probability-pa--b--union)
 * [Probability: Pb(a) // probability of a knowing b](math.md#probability-pba--probability-of-a-knowing-b)
 
-Queue:
+### Queue
+
 * [Dequeue data structure](queue.md#dequeue-data-structure)
 * [Queue](queue.md#queue)
 * [Queue implementations and insert/delete complexity](queue.md#queue-implementations-and-insertdelete-complexity)
 
-Recursion:
+### Recursion
+
 * [How to handle a recursive function that need to return a list](recursion.md#how-to-handle-a-recursive-function-that-need-to-return-a-list)
 * [How to handle a recursive function that need to return a maximum value](recursion.md#how-to-handle-a-recursive-function-that-need-to-return-a-maximum-value)
 * [Loop inside of a recursive function?](recursion.md#loop-inside-of-a-recursive-function)
 
-Sort:
+### Sort
+
 * [Bubble sort algorithm](sort.md#bubble-sort-algorithm)
 * [Bubble sort complexity and stability](sort.md#bubble-sort-complexity-and-stability)
 * [Counting sort complexity, stability, use case](sort.md#counting-sort-complexity-stability-use-case)
@@ -261,18 +273,21 @@ Sort:
 * [Selection sort complexity](sort.md#selection-sort-complexity)
 * [Shuffling an array](sort.md#shuffling-an-array)
 
-Stack:
+### Stack
+
 * [Stack](stack.md#stack)
 * [Stack implementations and insert/delete complexity](stack.md#stack-implementations-and-insertdelete-complexity)
 
-String:
+### String
+
 * [First check to test if two strings are a permutation or a rotation of each other](string.md#first-check-to-test-if-two-strings-are-a-permutation-or-a-rotation-of-each-other)
 * [How to print all the possible permutations of a string](string.md#how-to-print-all-the-possible-permutations-of-a-string)
 * [Rabin-Karp substring search](string.md#rabin-karp-substring-search)
 * [String permutation vs rotation](string.md#string-permutation-vs-rotation)
 * [String questions prerequisite](string.md#string-questions-prerequisite)
 
-Technique:
+### Technique
+
 * [0/1 Knapsack brute force technique](technique.md#01-knapsack-brute-force-technique)
 * [0/1 Knapsack memoization technique](technique.md#01-knapsack-memoization-technique)
 * [0/1 Knapsack tabulation technique](technique.md#01-knapsack-tabulation-technique)
@@ -306,7 +321,8 @@ Technique:
 * [Two pointers technique](technique.md#two-pointers-technique)
 * [What if we need to iterate backwards on a singly linked list in constant space without mutating the input?](technique.md#what-if-we-need-to-iterate-backwards-on-a-singly-linked-list-in-constant-space-without-mutating-the-input)
 
-Tree:
+### Tree
+
 * [2-3 tree](tree.md#2-3-tree)
 * [AVL tree](tree.md#avl-tree)
 * [B-tree complexity: access, insert, delete](tree.md#b-tree-complexity-access-insert-delete)
