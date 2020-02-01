@@ -44,3 +44,18 @@ Thus, using Anki is a great way to prepare your algorithm & data structure inter
 The **Anki version** (an Anki clone of the cards available in this repo) is available for $12.99:
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=W4QQBV8VB4KZ8)
+
+## Index
+
+Array:
+* [Algorithm to reverse an array](array.md#algorithm-to-reverse-an-array)
+* [Array complexity: access, search, insert, delete](array.md#array-complexity-access-search-insert-delete)
+* [Binary search in a sorted array algorithm](array.md#binary-search-in-a-sorted-array-algorithm)
+* [Find an element in a rotated sorted array](array.md#find-an-element-in-a-rotated-sorted-array)
+* [Given an array, move all the 0 to the left while maintaining the order of the other elements](array.md#given-an-array-move-all-the-0-to-the-left-while-maintaining-the-order-of-the-other-elements)
+* [How to detect if an element is a pivot in a rotated sorted array](array.md#how-to-detect-if-an-element-is-a-pivot-in-a-rotated-sorted-array)
+* [How to find a pivot element in a rotated array](array.md#how-to-find-a-pivot-element-in-a-rotated-array)
+* [How to find the duplicates in an array](array.md#how-to-find-the-duplicates-in-an-array)
+* [How to manage a dynamic array](array.md#how-to-manage-a-dynamic-array)
+* [How to test if the array is sorted in ascending or descending order](array.md#how-to-test-if-the-array-is-sorted-in-ascending-or-descending-order)
+* [Rotate an array by n elements (n can be negative)](array.md#rotate-an-array-by-n-elements-n-can-be-negative)
