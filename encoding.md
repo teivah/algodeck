@@ -16,7 +16,7 @@ Example: UTF-8 to encode Unicode characters using from 1 byte (english) up to 6 
 
 [#encoding](encoding.md)
 
-## Unicode charset
+## Unicode charset
 
 Superset of ASCII with 2^21 characters
 
