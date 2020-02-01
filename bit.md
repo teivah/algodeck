@@ -27,7 +27,7 @@ Logical shift (shift the sign bit as well)
 
 [#bit](bit.md)
 
-## ^ operator
+## ^ operator
 
 XOR bit by bit
 
