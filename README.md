@@ -31,12 +31,14 @@ Each card belongs to one or multiple domains:
 
 Anki is a free software (Windows/Mac/Linux/iPhone/Android) which makes remembering things easy. It utilizes [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition) which is a proven technique to increase rate of memorization.  
 
+[![](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=-uMMRjrzPmE)
+
 > "The single biggest change that Anki brings about is that it means memory is no longer a haphazard event, to be left to chance. Rather, it guarantees I will remember something, with minimal effort. That is, Anki makes memory a choice."
 
 Michael A. Nielsen, **"Augmenting Long-term Memory"**
 
 Using Anki is a great way to prepare an algorithm & data structure interview. 
 
-If you want to download the Anki deck containing the 213 cards, please follow this link (12.99$):
+If you want to download the Anki deck containing the 213 cards, please follow this link ($12.99):
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=W4QQBV8VB4KZ8)
