@@ -345,7 +345,7 @@ The **Anki version** (an Anki clone of the cards available in this repo) is avai
 * [Complexity to insert a key in a trie](tree.md#complexity-to-insert-a-key-in-a-trie)
 * [Complexity to search for a key in a trie](tree.md#complexity-to-search-for-a-key-in-a-trie)
 * [Given a binary tree, algorithm to populate an array to represent its level-by-level traversal](tree.md#given-a-binary-tree-algorithm-to-populate-an-array-to-represent-its-level-by-level-traversal)
-* [How to calculate the path number of a node while traversing using DFS? Example: 1 -> 7 -> 3 gives 173](tree.md#how-to-calculate-the-path-number-of-a-node-while-traversing-using-dfs-example-1---7---3-gives-173)
+* [How to calculate the path number of a node while traversing using DFS?](tree.md#how-to-calculate-the-path-number-of-a-node-while-traversing-using-dfs)
 * [Min (or max) value in a BST](tree.md#min-or-max-value-in-a-bst)
 * [Red-Black tree](tree.md#red-black-tree)
 * [Red-black tree complexity: access, insert, delete](tree.md#red-black-tree-complexity-access-insert-delete)
