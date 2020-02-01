@@ -1,5 +1,7 @@
 # Technique
 
+[14 Patterns to Ace Any Coding Interview Question](https://medium.com/hackernoon/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed#7cb6) by Fahim ul Haq
+
 ## 0/1 Knapsack brute force technique
 
 Recursive approach: solve f(c, i) with c is the remaining capacity and i is th current item index
