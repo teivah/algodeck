@@ -1,6 +1,6 @@
 # Greedy
 
-## Best-first search algorithm
+## Best-first search algorithm
 
 Greedy solution (non-complete) to find the shortest path to a target node
 
