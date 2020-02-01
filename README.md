@@ -2,7 +2,26 @@
 
 <a href="https://www.buymeacoffee.com/9b63kwt" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-Algo Deck is a collection of **213 algorithmic cards**.
+Algo Deck is a collection of **213 algorithmic cards** in the **19 domains**:
+- Array
+- Bit
+- Complexity
+- Dynamic Programming
+- Encoding
+- General
+- Graph
+- Greedy
+- Hash Table
+- Heap
+- Linked List
+- Math
+- Queue
+- Recursion
+- Sort
+- Stack
+- String
+- Technique
+- Tree
 
 ## Anki Deck
 
