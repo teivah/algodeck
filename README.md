@@ -39,7 +39,7 @@ The covered topics are the following:
 
 Michael A. Nielsen, "Augmenting Long-term Memory"
 
-This, using Anki is a great way to prepare an algorithm & data structure interview. 
+Thus, using Anki is a great way to prepare an algorithm & data structure interview. 
 
 If you want to **download the Anki deck containing the 213 cards**, please follow this link ($12.99):
 
