@@ -88,7 +88,7 @@ Delete min: O(log n)
 
 [#complexity](complexity.md) [#heap](heap.md)
 
-## BST complexity: access, insert, delete
+## BST complexity: access, insert, delete
 
 If not balanced O(n)
 If balanced O(log n)
@@ -201,7 +201,7 @@ Use case: good worst case time complexity and stable, good with linked list
 
 [#complexity](complexity.md) [#sort](sort.md)
 
-## Quicksort complexity, stability, use case
+## Quicksort complexity, stability, use case
 
 Time: best and average O(n log n), worst O(n²) if the array is already sorted in ascending or descending order
 Space: O(log n) // In-place sorting algorithm
@@ -212,7 +212,7 @@ Use case: in practice, quicksort is often faster than merge sort due to better l
 
 [#complexity](complexity.md) [#sort](sort.md)
 
-## Recursivity impacts on algorithm complexity
+## Recursivity impacts on algorithm complexity
 
 Space impact as each call is added to the call stack
 
@@ -226,7 +226,7 @@ All: O(log n)
 
 [#complexity](complexity.md) [#tree](tree.md)
 
-## Selection sort complexity
+## Selection sort complexity
 
 Time: Theta(n²)
 Space: O(1)
