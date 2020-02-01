@@ -45,7 +45,7 @@ The **Anki version** (an Anki clone of the cards available in this repo) is avai
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=W4QQBV8VB4KZ8)
 
-## Index
+## Cards Index
 
 ### Array
 
