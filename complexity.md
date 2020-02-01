@@ -230,6 +230,18 @@ Use case: in practice, quicksort is often faster than merge sort due to better l
 
 [#complexity](complexity.md) [#sort](sort.md)
 
+## Radix sort complexity, stability, use case
+
+Time complexity: O(nk) // n is the number of elements, k is the maximum number of digits for a number
+
+Space complexity: O(k)
+
+Stable
+
+Use case: if k < log(n) (for example 1M of elements from 0..1000 as 4 < log(1M)) 
+
+[#complexity](complexity.md) [#sort](sort.md)
+
 ## Recursivity impacts on algorithm complexity
 
 Space impact as each call is added to the call stack

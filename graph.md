@@ -151,7 +151,7 @@ Two methods:
 
 ### Further Reading
 
-[Dynamic Connectivity Problem](https://medium.com/omarelgabrys-blog/dynamic-connectivity-problem-9460f3dff2c6) by Omar El Gabry
+- [Dynamic Connectivity Problem](https://medium.com/omarelgabrys-blog/dynamic-connectivity-problem-9460f3dff2c6) by Omar El Gabry
 
 [#graph](graph.md)
 
