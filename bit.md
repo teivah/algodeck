@@ -71,7 +71,7 @@ int clearBitsFromMsbToI(int num, int i) {
 
 [#bit](bit.md)
 
-## Clear ith bit
+## Clear ith bit
 
 ```java
 int clearBit(final int num, final int i) {
@@ -102,7 +102,7 @@ boolean getBit(final int num, final int i) {
 
 [#bit](bit.md)
 
-## How to flip one bit
+## How to flip one bit
 
 b ^ 1
 
@@ -160,7 +160,7 @@ int updateBit(int num, int i, boolean bit) {
 
 [#bit](bit.md)
 
-## x & 1s
+## x & 1s
 
 x
 
