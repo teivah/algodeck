@@ -39,7 +39,7 @@ Delete: O(1)
 
 [#complexity](complexity.md) [#linkedlist](linkedlist.md)
 
-## Get the middle of a linked list
+## Get the middle of a linked list
 
 Using the runner technique
 
@@ -71,7 +71,7 @@ Single or doubly linked list?
 
 [#linkedlist](linkedlist.md)
 
-## Queue implementations and insert/delete complexity
+## Queue implementations and insert/delete complexity
 
 1. Linked list with pointers on head and tail
 
@@ -87,13 +87,13 @@ Delete: O(1)
 
 [#linkedlist](linkedlist.md) [#queue](queue.md)
 
-## Ring buffer (or circular buffer) structure
+## Ring buffer (or circular buffer) structure
 
 Data structure using a single, fixed-sized buffer as if it were connected end-to-end
 
 [#linkedlist](linkedlist.md)
 
-## What if we need to iterate backwards on a singly linked list in constant space without mutating the input?
+## What if we need to iterate backwards on a singly linked list in constant space without mutating the input?
 
 Reverse the liked list (or a subpart only), implement the algo then reverse it again to the initial state
 
