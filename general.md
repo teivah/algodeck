@@ -53,6 +53,12 @@ Example with merge sort:
 
 [#general](general.md)
 
+## How to name a matrix indexes
+
+Use m[row][col] instead of m[y][x]
+
+[#general](general.md)
+
 ## If stucked on a problem
 
 - Start with the smallest and easiest problem (e.g. 2 elements) and build a solution for that. Then, add elements and see if we can find a common pattern
