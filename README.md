@@ -31,7 +31,7 @@ The covered topics are the following:
 
 ## Anki Deck
 
-Anki is a free software (Windows/Mac/Linux/iPhone/Android) which makes remembering things easy. It utilizes spaced repetition which is a proven technique to increase rate of memorization:  
+[Anki](https://apps.ankiweb.net/) is a free software (Windows/Mac/Linux/iPhone/Android) which makes remembering things easy. It utilizes spaced repetition which is a proven technique to increase rate of memorization:  
 
 [![](http://img.youtube.com/vi/-uMMRjrzPmE/0.jpg)](http://www.youtube.com/watch?v=-uMMRjrzPmE "Spaced Repetition: The most powerful study technique")
 
@@ -44,3 +44,5 @@ This, using Anki is a great way to prepare an algorithm & data structure intervi
 If you want to **download the Anki deck containing the 213 cards**, please follow this link ($12.99):
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=W4QQBV8VB4KZ8)
+
+[Anki download](https://apps.ankiweb.net/)
