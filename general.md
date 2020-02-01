@@ -61,7 +61,7 @@ Example with merge sort:
 
 [#general](general.md)
 
-## In place definition
+## In place definition
 
 Mutates an input
 
