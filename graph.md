@@ -13,7 +13,7 @@ Priority is computed using the evaluation function: f(n) = h + g where h is an h
 
 [#graph](graph.md)
 
-## Backedge definition
+## Backedge definition
 
 An edge from a node to itself or to an ancestor
 
@@ -31,7 +31,7 @@ Priority is computed using the evaluation function: f(n) = h where h is an heuri
 
 [#graph](graph.md) [#greedy](greedy.md)
 
-## BFS & DFS graph traversal use cases
+## BFS & DFS graph traversal use cases
 
 BFS: shortest path
 
@@ -153,7 +153,7 @@ Two methods:
 
 [#graph](graph.md)
 
-## Dynamic connectivity problem - Quick-find solution
+## Dynamic connectivity problem - Quick-find solution
 
 Array of integer of size N initialized with their index (0: 0, 1: 1 etc.).
 
@@ -198,7 +198,7 @@ There is a cycle if the produced sorted array size is different from n
 
 [#graph](graph.md)
 
-## Graph definition
+## Graph definition
 
 A way to represent a network, or a collection of inteconnected objects
 
@@ -235,7 +235,7 @@ while (!queue.isEmpty()) {
 
 [#graph](graph.md)
 
-## Graph traversal: DFS
+## Graph traversal: DFS
 
 Traverse deep into the graph by visiting the children before sibling/neighbor nodes (traverse down one single path)
 
@@ -272,7 +272,7 @@ while (!queue.isEmpty()) {
 
 [#graph](graph.md)
 
-## How to detect a cycle in a directed graph
+## How to detect a cycle in a directed graph
 
 Using DFS by marking the visited nodes, there is a cycle if a visited node is also part of the current stack
 
@@ -378,7 +378,7 @@ Degree of a vertex
 
 [#graph](graph.md)
 
-## How to represent the edges of a graph (structure and complexity)
+## How to represent the edges of a graph (structure and complexity)
 
 1. Using an adjacency matrix: two-dimensional array of boolean with a[i][j] is true if there is an edge between node i and j
 
@@ -402,7 +402,7 @@ Time and space: O(v + e)
 
 [#complexity](complexity.md) [#graph](graph.md)
 
-## Topological sort technique
+## Topological sort technique
 
 If there is an edge from U to V, then U <= V
 
