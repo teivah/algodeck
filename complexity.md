@@ -18,7 +18,7 @@ Time and space complexity: O(n * c) with n the number items and c the capacity
 
 Time and space complexity: O(n * c) with n the number of items and c the capacity
 
-Space complexity could even be improved to O(2*c) = **O(c)** as we need to store only the **last 2 lines** (using row%2):
+Space complexity could even be improved to O(2*c) = O(c) as we need to store only the last 2 lines (using row%2):
 
 ```java
 int[][] dp = new int[2][c + 1];
@@ -114,7 +114,7 @@ Stable
 
 ## Complexity of a function making multiple recursive subcalls
 
-Time: **O(branches^depth)** with branches the number of times each recursive call branches (english: 2 power 3)
+Time: O(branches^depth) with branches the number of times each recursive call branches (english: 2 power 3)
 
 Space: O(depth) to store the call stack
 

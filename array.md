@@ -50,9 +50,9 @@ Solution: binary search
 
 Check first if the array is rotated. If not, apply normal binary search
 
-If rotated, **find pivot** (smallest element, only element whose previous is bigger)
+If rotated, find pivot (smallest element, only element whose previous is bigger)
 
-Then, check if the element is in **0..pivot-1 or pivot..len-1**
+Then, check if the element is in 0..pivot-1 or pivot..len-1
 
 ```java
 int findElementRotatedArray(int[] a, int val) {
@@ -159,7 +159,7 @@ When full, create a new array of twice the size, copy items (System.arraycopy is
 
 Shrink: 
 - Not when one-half full (otherwise worst case is too expensive: double-shrink-double-shrink etc.)
-- Solution: **one-quarter full**
+- Solution: one-quarter full
 
 [#array](array.md)
 

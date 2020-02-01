@@ -79,7 +79,7 @@ NP-complete: hardest problems in the NP set
 
 There are other sets of problems that are not P nor NP as an answer is really hard to prove (example: best move in a chess game)
 
-P = NP means **does being able to quickly recognize correct answers means there's also a quick way to find them?**
+P = NP means does being able to quickly recognize correct answers means there's also a quick way to find them?
 
 [#general](general.md)
 
@@ -99,8 +99,8 @@ Preserve the original order of elements with equal key
 
 ## What do to after having designed a solution
 
-Testing on **nominal** cases then **edge** cases
+Testing on nominal cases then edge cases
 
-Time and space **complexity**
+Time and space complexity
 
 [#general](general.md)

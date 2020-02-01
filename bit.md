@@ -113,7 +113,7 @@ b ^ 1
 
 Use the most significative bit to represent the sign. Yet, it is not enough (problem with this technique: 5 + (-5) != 0)
 
-Two's complement technique: take the **one complement and add one**
+Two's complement technique: take the one complement and add one
 
 -3: 1101
 
@@ -129,7 +129,7 @@ Two's complement technique: take the **one complement and add one**
 
 3:  0011
 
-The **most significant** bit still represents the **sign**
+The most significant bit still represents the sign
 
 Max integer value: 1...1 (31 bits)
 
