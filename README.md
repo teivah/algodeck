@@ -20,7 +20,7 @@ The topics covered are the following:
 - [Hash Table](hashtable.md): hashtable data structure
 - [Heap](heap.md): heap data structure including min-heap/max heap, binary heap use cases, etc.
 - [Linked List](linkedlist.md): linked list data structure, how to get the middle element, iterate over two lists, doubly linked list, etc.
-- [Math](match.md): discrete math
+- [Math](math.md): discrete math
 - [Queue](queue.md): queue data structure
 - [Recursion](recursion.md): recursion concepts
 - [Sort](sort.md): sort algorithms including concepts, complexity, use cases, etc.
