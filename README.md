@@ -33,7 +33,7 @@ Anki is a free software (Windows/Mac/Linux/iPhone/Android) which makes rememberi
 
 [![](http://img.youtube.com/vi/-uMMRjrzPmE/0.jpg)](http://www.youtube.com/watch?v=-uMMRjrzPmE "Spaced Repetition: The most powerful study technique")
 
-> "The single biggest change that Anki brings about is that it means memory is no longer a haphazard event, to be left to chance. Rather, it guarantees I will remember something, with minimal effort. That is, Anki makes memory a choice."
+> The single biggest change that Anki brings about is that it means memory is no longer a haphazard event, to be left to chance. Rather, it guarantees I will remember something, with minimal effort. That is, Anki makes memory a choice.
 
 Michael A. Nielsen, **"Augmenting Long-term Memory"**
 
