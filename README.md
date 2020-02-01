@@ -39,6 +39,6 @@ Michael A. Nielsen, "Augmenting Long-term Memory"
 
 Thus, using Anki is a great way to prepare an algorithm & data structure interview. 
 
-If you want to **download the Anki deck containing all the cards of this repo**, please follow this link ($12.99):
+If you want to **download the Anki deck containing all the cards of this repo** and support the author in the meantime, please follow this link ($12.99):
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=W4QQBV8VB4KZ8)
