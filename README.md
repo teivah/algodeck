@@ -4,7 +4,7 @@
 
 ## Overview
 
-Algo Deck is an **open-source collection of 213 algorithmic cards** to help you preparing and suceediAlgo Deck is an **open-source collection of 213 algorithmic cards** to help you preparing and succeeding in your algorithm & data structure interview.ng in your algorithm & data structure interview.
+Algo Deck is an **open-source collection of 213 algorithmic cards** to help you preparing and succeeding in your algorithm & data structure interview.ng in your algorithm & data structure interview.
 
 Each card is a synthesized way to summarize a concept. For example:
 
