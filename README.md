@@ -8,7 +8,7 @@ Algo Deck is an **open-source collection of +200 algorithmic cards**.
 
 It helps you preparing and succeeding in your **algorithm & data structure interview**.
 
-The covered topics are the following:
+The topics covered are the following:
 - [Array](array.md): reversing an array, finding a pivot, handling a dynamic array, etc.  
 - [Bit](bit.md): operators, bit manipulation, etc.
 - [Complexity](complexity.md): algorithm & data structures complexity
