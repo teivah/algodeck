@@ -104,6 +104,16 @@ If balanced O(log n)
 
 [#complexity](complexity.md) [#tree](tree.md)
 
+## BST delete algo and complexity
+
+Find inorder successor and swap it
+
+Average: O(log n)
+
+Worst: O(h) if not self-balanced BST, otherwise O(log n)
+
+[#complexity](complexity.md) [#tree](tree.md)
+
 ## Bubble sort complexity and stability
 
 Time: O(n²)
