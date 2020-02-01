@@ -32,7 +32,7 @@ Reverse ordering, max-heap: (a, b) -> b - a
 
 [#general](general.md)
 
-## Different ways for two intervals to relate to each other if ordered by start then end
+## Different ways for two intervals to relate to each other if ordered by start then end
 
 2 different ways:
 - No overlap
@@ -67,7 +67,7 @@ Mutates an input
 
 [#general](general.md)
 
-## P vs NP problems
+## P vs NP problems
 
 P (polynomial): set of problems that can be solved reasonably fast (example: multiplication, sorting, etc.)
 
@@ -83,7 +83,7 @@ P = NP means **does being able to quickly recognize correct answers means there'
 
 [#general](general.md)
 
-## Solving optimization problems
+## Solving optimization problems
 
 - Greedy method
 - Dynamic programming (memoization or tabulation)
@@ -97,7 +97,7 @@ Preserve the original order of elements with equal key
 
 [#general](general.md)
 
-## What do to after having designed a solution
+## What do to after having designed a solution
 
 Testing on **nominal** cases then **edge** cases
 
