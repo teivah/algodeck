@@ -41,7 +41,7 @@ If violations, swap with the smallest child (level by level)
 
 [#heap](heap.md)
 
-## Binary heap (min-heap or max-heap) insert algorithm
+## Binary heap (min-heap or max-heap) insert algorithm
 
 Insert node at the end (left-most spot because a binary heap is a complete binary tree)
 
@@ -49,7 +49,7 @@ If violations, swap with parents until no more violation
 
 [#heap](heap.md)
 
-## Binary heap (min-heap or max-heap) use-cases
+## Binary heap (min-heap or max-heap) use-cases
 
 Priority queue
 
@@ -173,7 +173,7 @@ O(n)
 
 [#complexity](complexity.md) [#heap](heap.md)
 
-## Two heaps technique
+## Two heaps technique
 
 Keep two heaps:
 - A max heap for the first half
