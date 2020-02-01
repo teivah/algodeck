@@ -31,7 +31,7 @@ Each card belongs to one or multiple domains:
 
 Anki is a free software (Windows/Mac/Linux/iPhone/Android) which makes remembering things easy. It utilizes [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition) which is a proven technique to increase rate of memorization.  
 
-[![](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=-uMMRjrzPmE)
+[![](http://img.youtube.com/vi/-uMMRjrzPmE/0.jpg)](http://www.youtube.com/watch?v=-uMMRjrzPmE "Spaced Repetition: The most powerful study technique")
 
 > "The single biggest change that Anki brings about is that it means memory is no longer a haphazard event, to be left to chance. Rather, it guarantees I will remember something, with minimal effort. That is, Anki makes memory a choice."
 
