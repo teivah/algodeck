@@ -20,7 +20,7 @@ Each card is a synthesized way to summarize a concept. For example:
 - Permutation: contains the same characters in an order that can be different (abdc and dabc)
 - Rotation: rotates according to a pivot
 
-#string
+[#string](string.md)
 
 ## Anki Deck
 
