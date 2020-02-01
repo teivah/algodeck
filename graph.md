@@ -83,7 +83,7 @@ Input: graph, initial vertex
 
 Output: for each vertex: shortest path and previous node // The previous node is the one we are coming from in the shortest path. To find the shortest path between two nodes, we need to iterate backwards.  Example: A -> C => E, D, A
 
-![](res/djikstra.png)
+![](res/dijkstra.png)
 
 Algorithm:
 - Init the shortest distance to MAX except for the initial node
