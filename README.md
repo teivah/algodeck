@@ -4,7 +4,7 @@
 
 ## Overview
 
-Algo Deck is an **open-source collection of 213 algorithmic cards** to help you preparing and succeeding in your algorithm & data structure interview.
+Algo Deck is an **open-source collection of 213 algorithmic cards** to help you preparing and succeeding in your **algorithm & data structure interview**.
 
 The covered topics are the following:
 - [Array](array.md): reversing an array, finding a pivot, handling a dynamic array, etc.  
@@ -17,7 +17,7 @@ The covered topics are the following:
 - [Greedy](greedy.md): greedy algorithms concepts
 - [Hash Table](hashtable.md): hashtable data structure
 - [Heap](heap.md): heap data structure including min-heap/max heap, binary heap use cases, etc.
-- [Linked List](linkedlist.md): linked list data structure, how to get the middle element, iterate over two linked lists, doubly linked list, etc.
+- [Linked List](linkedlist.md): linked list data structure, how to get the middle element, iterate over two lists, doubly linked list, etc.
 - [Math](match.md): discrete math
 - [Queue](queue.md): queue data structure
 - [Recursion](recursion.md): recursion concepts
