@@ -240,7 +240,9 @@ public static List<List<Integer>> traverse(TreeNode root) {
 
 [#tree](tree.md)
 
-## How to calculate the path number of a node while traversing using DFS? Example: 1 -> 7 -> 3 gives 173
+## How to calculate the path number of a node while traversing using DFS? 
+
+Example: 1 -> 7 -> 3 gives 173
 
 Solution: sum = sum * 10 + n
 
