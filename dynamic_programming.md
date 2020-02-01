@@ -10,7 +10,7 @@ Based on either:
 - Memoization (top-down)
 - Tabulation (bottom-up)
 
-[#dynamic programming](dynamic_programming.md)
+[#dynamicprogramming](dynamic_programming.md)
 
 ## Memoization vs tabulation
 
@@ -39,4 +39,4 @@ tabFib(n) {
 }
 ```
 
-[#dynamic programming](dynamic_programming.md)
+[#dynamicprogramming](dynamic_programming.md)
