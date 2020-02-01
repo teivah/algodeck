@@ -39,7 +39,7 @@ The covered topics are the following:
 
 Michael A. Nielsen, "Augmenting Long-term Memory"
 
-Thus, using Anki is a great way to prepare an algorithm & data structure interview. 
+Thus, using Anki is a great way to prepare your algorithm & data structure interview. 
 
 The **Anki version** of this repository (+200 cards, 19 domains) is available for $12.99:
 
