@@ -29,7 +29,7 @@ Each card belongs to one or multiple domains:
 
 ## Anki Deck
 
-Anki is a free software (Windows/Mac/Linux/iPhone/Android) which makes remembering things easy. It utilizes [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition) which is a proven technique to increase rate of memorization.  
+Anki is a free software (Windows/Mac/Linux/iPhone/Android) which makes remembering things easy. It utilizes spaced repetition which is a proven technique to increase rate of memorization:  
 
 [![](http://img.youtube.com/vi/-uMMRjrzPmE/0.jpg)](http://www.youtube.com/watch?v=-uMMRjrzPmE "Spaced Repetition: The most powerful study technique")
 
@@ -37,7 +37,7 @@ Anki is a free software (Windows/Mac/Linux/iPhone/Android) which makes rememberi
 
 Michael A. Nielsen, **"Augmenting Long-term Memory"**
 
-Using Anki is a great way to prepare an algorithm & data structure interview. 
+This, using Anki is a great way to prepare an algorithm & data structure interview. 
 
 If you want to download the Anki deck containing the 213 cards, please follow this link ($12.99):
 
