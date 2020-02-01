@@ -4,22 +4,21 @@
 
 ## Overview
 
-Algo Deck is an **open-source collection of 213 algorithmic cards** to help you preparing and succeeding in your algorithm & data structure interview.ng in your algorithm & data structure interview.
+Algo Deck is an **open-source collection of 213 algorithmic cards** to help you preparing and succeeding in your algorithm & data structure interview.
 
 Each card is a synthesized way to summarize a concept. For example:
 
-### BST complexity: access, insert, delete
+#### BST complexity: access, insert, delete
 
-If not balanced O(n)
-
-If balanced O(log n)
+- If not balanced O(n)
+- If balanced O(log n)
 
 [#complexity](complexity.md) [#tree](tree.md)
 
-### String permutation vs rotation
-Permutation: contains the same characters in an order that can be different (abdc and dabc)
+#### String permutation vs rotation
 
-Rotation: rotates according to a pivot
+- Permutation: contains the same characters in an order that can be different (abdc and dabc)
+- Rotation: rotates according to a pivot
 
 #string
 
