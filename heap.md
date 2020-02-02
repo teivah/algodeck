@@ -144,12 +144,16 @@ public static List<Integer> findKLargestNumbers(int[] nums, int k) {
 		}
 	}
 
-	// Remove all elements from the heap.
-	List<Integer> largest = new ArrayList<>(minHeap.size());
+	return toList(minHeap);
+}
+
+public static List<Integer> toList(PriorityQueue<Integer> minHeap) {
+	List<Integer> list = new ArrayList<>(minHeap.size());
 	while (!minHeap.isEmpty()) {
-		largest.add(heap.poll());
+		list.add(minHeap.poll());
 	}
-	return largest;
+
+	return list;
 }
 ```
 
