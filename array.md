@@ -42,6 +42,10 @@ while (lo <= hi) {
 }
 ```
 
+### Further Reading
+
+- [Nearly All Binary Searches and Mergesorts are Broken](https://ai.googleblog.com/2006/06/extra-extra-read-all-about-it-nearly.html) by the Google AI Blog
+
 [#array](array.md)
 
 ## Find an element in a rotated sorted array
