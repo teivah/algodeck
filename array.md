@@ -30,7 +30,7 @@ Delete: O(n)
 int lo = 0, hi = a.length - 1;
 
 while (lo <= hi) {
-	int mid = (low + high) / 2;
+	int mid = low + ((high - low) / 2);
 	if (a[mid] == key) {
 		return mid;
 	}
@@ -126,7 +126,7 @@ int findPivot(int[] a) {
 	}
 
 	while (left <= right) {
-		int mid = (left + right) / 2;
+		int mid = left + ((right - left) / 2);
 		if (mid > 0 && a[mid] < a[mid - 1]) {
 			return a[mid];
 		}
