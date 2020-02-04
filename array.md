@@ -27,17 +27,17 @@ Delete: O(n)
 ## Binary search in a sorted array algorithm
 
 ```java
-int lo = 0, hi = a.length - 1;
+int low = 0, high = a.length - 1;
 
-while (lo <= hi) {
+while (low <= high) {
 	int mid = low + ((high - low) / 2);
 	if (a[mid] == key) {
 		return mid;
 	}
 	if (a[mid] < key) {
-		lo = mid + 1;
+		low = mid + 1;
 	} else {
-		hi = mid - 1;
+		high = mid - 1;
 	}
 }
 ```
