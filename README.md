@@ -44,7 +44,7 @@ Michael A. Nielsen, "Augmenting Long-term Memory"
 Thus, using Anki is a great way to prepare your algorithm & data structure interview.
 Here is a flashcard example:
 
-![](res/anki.jpg | width=100)
+![](res/anki.png)
 
 The **Anki version** (an Anki clone of the cards available in this repo) is available for $14.99:
 
