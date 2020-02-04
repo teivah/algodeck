@@ -40,9 +40,9 @@ _Spaced Repetition: The most powerful study technique on YouTube_
 _Michael A. Nielsen, "Augmenting Long-term Memory"_
 
 Using **Anki is a great way to prepare your algorithm & data structure interview**.
-Here is a flashcard example on mobile:
+Here is a flashcard example:
 
-![](res/anki.jpg)
+![](res/anki.png)
 
 The Anki version (a clone of the +200 flashcards from this repo) is available for $14.99:
 
