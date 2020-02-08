@@ -309,7 +309,7 @@ The Anki version (a clone of the +200 flashcards from this repo) is available fo
 * [Technique - Find the longest/shortest substring or subarray](technique.md#technique---find-the-longestshortest-substring-or-subarray)
 * [Technique - Find the smallest/largest/median element of a set](technique.md#technique---find-the-smallestlargestmedian-element-of-a-set)
 * [Technique - Finding a certain element in a linked list (e.g. middle)](technique.md#technique---finding-a-certain-element-in-a-linked-list-eg-middle)
-* [Technique - Given a sorted array, find a set of elements that fullfill certain conditions](technique.md#technique---given-a-sorted-array-find-a-set-of-elements-that-fullfill-certain-conditions)
+* [Technique - Given a sorted array, find a set of elements that fulfill certain conditions](technique.md#technique---given-a-sorted-array-find-a-set-of-elements-that-fulfill-certain-conditions)
 * [Technique - Given an array of size n containing integer from 1 to n (e.g. with one duplicate)](technique.md#technique---given-an-array-of-size-n-containing-integer-from-1-to-n-eg-with-one-duplicate)
 * [Technique - Given time intervals](technique.md#technique---given-time-intervals)
 * [Technique - How to get the K biggest/smallest/frequent elements](technique.md#technique---how-to-get-the-k-biggestsmallestfrequent-elements)
