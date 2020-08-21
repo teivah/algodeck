@@ -355,5 +355,3 @@ The Anki version (a clone of the +200 flashcards from this repo) is available fo
 * [Reverse a binary tree algo](tree.md#reverse-a-binary-tree-algo)
 * [Trie definition, implementation and use case](tree.md#trie-definition-implementation-and-use-case)
 * [Why to use BST over hash table](tree.md#why-to-use-bst-over-hash-table)
-
-<a href="https://www.buymeacoffee.com/teivah" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
