@@ -2,7 +2,7 @@
 
 ## Overview
 
-Algo Deck is an **open-source collection of +200 algorithmic flash cards**.
+Algo Deck is an **open-source collection of 200+ algorithmic flash cards**.
 
 It helps you preparing and succeeding in your **algorithm & data structure interview**. The code examples are in Java.
 
