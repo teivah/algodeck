@@ -44,7 +44,7 @@ Here is a flashcard example:
 
 ![](res/anki.png)
 
-The Anki version (a clone of the +200 flashcards from this repo) is available for $14.99:
+The Anki version (a clone of the +200 flashcards from this repo) is available for $99.99 (+200 customers):
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=W4QQBV8VB4KZ8)
 
