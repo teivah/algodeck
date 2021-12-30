@@ -79,7 +79,7 @@ A*: complete
 
 ## Dijkstra algorithm
 
-Input: graph, initial vertex
+Input: graph, initial vertex. Non-negative weights.
 
 Output: for each vertex: shortest path and previous node // The previous node is the one we are coming from in the shortest path. To find the shortest path between two nodes, we need to iterate backwards.  Example: A -> C => E, D, A
 
@@ -91,6 +91,11 @@ Algorithm:
 - Init a set to store all visited node
 - Add initial vertex to the priority queue
 - While queue is not empty: Poll a vertex (mark it visited) and check the total distance to each neighbour (current distance + distance so far), update shortest and previous arrays if smaller. If destination was unvisited, adds it to the queue
+
+Time: `O(ElogN + NlogN)`. Assuming `E` is always much larger than N: `O(ElogN)`
+
+Space: `O(E+N)` (adjacency list)
+
 
 ```java
 void dijkstra(GraphAjdacencyMatrix graph, int initial) {
@@ -138,6 +143,33 @@ void dijkstra(GraphAjdacencyMatrix graph, int initial) {
 	print(previous);
 }
 ```
+
+## Bellman-Ford
+Single-source shortest paths, similar to Dijkstra but can deal with negative weights.
+
+Not for negative cycles. Able to detect negative cycles.
+
+Time: `O(V*E)`
+
+Space: `O(V)` (distance array)
+
+Algo:
+
+- Initialise `distances` array of size `V` with initial values of `+inf`
+- Loop `V-1` times (https://cs.stackexchange.com/questions/50557/why-do-we-need-to-run-the-bellman-ford-algorithm-for-n-1-times)
+- - Initialise a `update_counts` variable to track the number of updates.
+- - Loop `E` times to perform edge relaxation:
+```
+if distance[from] != inf and distances[from] + weight(from, to)  < distances[to]:
+  distances[to] = distances[from] + weight(from, to)
+  update_counts +=1
+
+```
+
+- Negative cycle detection: loop one more time. If `count>0` then we know there is still update in the last loop  --> negative cycle.
+
+
+
 
 [#graph](graph.md)
 
@@ -398,13 +430,23 @@ Problem:
 
 [#graph](graph.md)
 
-## Topological sort complexity
-
-Time and space: O(v + e)
-
 [#complexity](complexity.md) [#graph](graph.md)
 
-## Topological sort technique
+## Topological sort technique (DFS with stack)
+
+Time : `O(v + e)`
+Space: `O(v)` extra space for the stack
+
+Algo:
+
+- During DFS, after calling for all adjacent vertices, we push the node to the stack. Following this, a vertice is pushed
+onto the stack after all its neighbour are already on the stack. 
+- In the end, print out the content of the stack.
+
+
+## Topological sort technique (Kahn's algorithm)
+
+Time and space: `O(v + e)`
 
 If there is an edge from U to V, then U <= V
 
