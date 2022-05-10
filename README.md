@@ -1,5 +1,7 @@
 ![](res/algodeck.jpg)
 
+_Note: I also released the system design version: https://github.com/teivah/designdeck_
+
 ## Overview
 
 Algo Deck is an **open-source collection of 200+ algorithmic flash cards**.
