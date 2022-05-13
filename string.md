@@ -16,7 +16,7 @@ void permute(String s) {
 }
 
 void permute(String s, int index) {
-	if (index == s.length() - 1) {
+	if (index == s.length()) {
 		System.out.println(s);
 		return;
 	}
