@@ -1,6 +1,6 @@
 ![](res/algodeck.jpg)
 
-_Note: I also released the system design version: https://github.com/teivah/designdeck_
+_Note: I also released the system design version: https://github.com/teivah/designdeck, an open-source collection of 230+ flash cards._
 
 ## Overview
 
@@ -46,9 +46,7 @@ Here is a flashcard example:
 
 ![](res/anki.png)
 
-The Anki version (a clone of the +200 flashcards from this repo) is available for ~~$59.99~~ $19.99 (+200 customers):
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=W4QQBV8VB4KZ8)
+The Anki version (a clone of the +200 flashcards from this repo) is available via a one-time GitHub sponsorship tier for $19: [❤️ Sponsor](https://github.com/sponsors/teivah), One-time tab, _Access to the latest Anki deck version of Algo Deck_ tier.
 
 ## Cards Index
 
