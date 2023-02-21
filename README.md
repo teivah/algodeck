@@ -1,4 +1,4 @@
-![](res/algodeck.jpg)
+![](res/algodeck.png)
 
 _Note: I also released the system design version: https://github.com/teivah/designdeck, an open-source collection of 230+ flash cards._
 
