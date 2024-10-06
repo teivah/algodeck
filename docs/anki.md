@@ -30,6 +30,6 @@ The Anki versions (a clone of the flashcards from this repo) are available via a
 - **Design Deck**: $21
 - **Algo Deck and Design Deck**: $29
 
-[❤️ Sponsor](https://github.com/sponsors/teivah) -> `One-time` tab -> Select your preferred tier.
+[❤️ Sponsor](https://github.com/sponsors/teivah) -> Select your preferred tier.
 
 Trusted by over 100 developers.
