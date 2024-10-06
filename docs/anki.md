@@ -26,10 +26,8 @@ Here is a flashcard example:
 
 The Anki versions (a clone of the flashcards from this repo) are available via a one-time GitHub sponsorship:
 
-- **Algo Deck**: $19
-- **Design Deck**: $21
-- **Algo Deck and Design Deck**: $29
-
-[❤️ Sponsor](https://github.com/sponsors/teivah) -> Select your preferred tier.
+- **Algo Deck**: [$19 tier](https://github.com/sponsors/teivah/sponsorships?sponsor=teivah&tier_id=222440).
+- **Design Deck**: [$21 tier](https://github.com/sponsors/teivah/sponsorships?sponsor=teivah&tier_id=222441).
+- **Algo Deck and Design Deck**: [$29 tier](https://github.com/sponsors/teivah/sponsorships?sponsor=teivah&tier_id=222442).
 
 Trusted by over 100 developers.
