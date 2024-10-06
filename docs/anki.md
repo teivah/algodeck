@@ -24,7 +24,7 @@ Here is a flashcard example:
 
 <center>![](img/anki.png)</center>
 
-The Anki versions (a clone of the flashcards from this repo) are available via a one-time GitHub sponsorship:
+The Anki versions (a clone of the flashcards from this repo) are available via one-time GitHub sponsorships:
 
 - **Algo Deck**: [$19 tier](https://github.com/sponsors/teivah/sponsorships?sponsor=teivah&tier_id=222440).
 - **Design Deck**: [$21 tier](https://github.com/sponsors/teivah/sponsorships?sponsor=teivah&tier_id=222441).
