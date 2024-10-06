@@ -48,6 +48,11 @@ nav:
     - designdeck.md
   - 💡 Anki Versions (Spaced Repetition):
     - anki.md
+extra:
+  generator: false
+  analytics:
+    provider: google
+    property: G-2333ZGCZ67
 markdown_extensions:
 - abbr
 - admonition
