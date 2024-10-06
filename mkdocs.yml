@@ -46,7 +46,7 @@ nav:
     - index.md
   - Design Deck:
     - designdeck.md
-  - 💡 Anki (Spaced Repetition):
+  - 💡 Anki Versions (Spaced Repetition):
     - anki.md
 markdown_extensions:
 - abbr
