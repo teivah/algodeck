@@ -34,7 +34,7 @@ theme:
       name: Switch to light mode
     primary: blue grey
     accent: teal
-repo_url: https://github.com/teivah/100-go-mistakes
+repo_url: https://github.com/teivah/algodeck
 plugins:
 - search
 - glightbox
