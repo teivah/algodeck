@@ -1,0 +1,74 @@
+site_name: Deckly
+site_url: https://deckly.dev
+repo_name: teivah/algodeck
+theme:
+  name: material
+  language: en
+  logo: img/logo.png
+  favicon: img/icon.png
+  features:
+  - navigation.tabs
+  - navigation.tabs.sticky
+  - search.highlight
+  - search.share
+  - search.suggest
+  - content.code.copy
+  - navigation.expand
+  - navigation.sections
+  - announce.dismiss
+  - toc.follow
+  - content.code.annotate
+  - content.tooltips
+  palette:
+  # Palette toggle for light mode
+  - scheme: default
+    toggle:
+      icon: material/brightness-7
+      name: Switch to dark mode
+    primary: green
+    accent: deep orange
+  # Palette toggle for dark mode
+  - scheme: slate
+    toggle:
+      icon: material/brightness-4
+      name: Switch to light mode
+    primary: blue grey
+    accent: teal
+repo_url: https://github.com/teivah/100-go-mistakes
+plugins:
+- search
+- glightbox
+#- social:
+#    cards_layout_options:
+#      logo: img/cover.png
+nav:
+  - Algo Deck:
+    - index.md
+  - Design Deck:
+    - designdeck.md
+  - 💡 Anki (Spaced Repetition):
+    - anki.md
+markdown_extensions:
+- abbr
+- admonition
+- pymdownx.details
+- pymdownx.highlight:
+    anchor_linenums: true
+    line_spans: __span
+    pygments_lang_class: true
+- pymdownx.highlight
+- pymdownx.inlinehilite
+- pymdownx.snippets:
+    auto_append:
+    - includes/abbreviations.md
+- pymdownx.superfences
+- tables
+- attr_list
+- md_in_html
+- footnotes
+- pymdownx.emoji:
+    emoji_index: !!python/name:material.extensions.emoji.twemoji
+    emoji_generator: !!python/name:material.extensions.emoji.to_svg
+copyright: Copyright &copy; 2022 - 2024 Teiva Harsanyi
+extra_css:
+- stylesheets/extra.css
