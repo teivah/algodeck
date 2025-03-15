@@ -48,6 +48,7 @@ nav:
     - designdeck.md
   - 💡 Anki Versions (Spaced Repetition):
     - anki.md
+  - 'The Coder Cafe': https://thecoder.cafe/?rd=deckly.dev
 extra:
   generator: false
   analytics:

@@ -17,7 +17,7 @@ hide:
 
     If you enjoyed this resource, you may be interested in my latest project: [The Coder Cafe](https://thecoder.cafe?rd=deckly.dev), a newsletter for coders.
 
-    > Feeling overwhelmed by the endless stream of tech content? At The Coder Cafe, we serve essential concepts for coders daily. Written by a senior software engineer at Google, it's perfectly brewed for your morning coffee, helping you grow your skills deeply.
+    > Feeling overwhelmed by the endless stream of tech content? At The Coder Cafe, we serve one essential concept for coders. Written by a senior software engineer at Google, it's perfectly brewed for your morning coffee, helping you grow your skills deeply.
 
     <center><a href="https://thecoder.cafe?rd=deckly.dev"><img src="../img/thecodercafe.png" alt="" style="width:480px;height:240px;"></a></center>
 
